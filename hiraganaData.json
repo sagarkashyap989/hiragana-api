@@ -1,0 +1,94 @@
+
+  [
+    {
+      "hiragana": "あ",
+      "romaji": "A",
+      "memoryAid": "Looks like an apple 🍎",
+      "exampleWords": [
+        { "word": "あい", "romaji": "Ai", "meaning": "Love ❤️" }
+      ]
+    },
+    {
+      "hiragana": "い",
+      "romaji": "I",
+      "memoryAid": "Looks like two eyes 👀",
+      "exampleWords": [
+        { "word": "いぬ", "romaji": "Inu", "meaning": "Dog 🐶" }
+      ]
+    },
+    {
+      "hiragana": "う",
+      "romaji": "U",
+      "memoryAid": "A boxer getting punched, saying 'Ugh!' 🥊",
+      "exampleWords": [
+        { "word": "うえ", "romaji": "Ue", "meaning": "Up/Above ⬆️" }
+      ]
+    },
+    {
+      "hiragana": "え",
+      "romaji": "E",
+      "memoryAid": "Looks like an energetic ninja 🥷",
+      "exampleWords": [
+        { "word": "えき", "romaji": "Eki", "meaning": "Station 🚉" }
+      ]
+    },
+    {
+      "hiragana": "お",
+      "romaji": "O",
+      "memoryAid": "Resembles a UFO 🛸",
+      "exampleWords": [
+        { "word": "おかね", "romaji": "Okane", "meaning": "Money 💰" }
+      ]
+    },
+    {
+      "hiragana": "か",
+      "romaji": "Ka",
+      "voiced": { "hiragana": "が", "romaji": "Ga" },
+      "memoryAid": "Looks like a key 🔑",
+      "exampleWords": [
+        { "word": "か", "romaji": "Ka", "meaning": "Mosquito" },
+        { "word": "が", "romaji": "Ga", "meaning": "Common in questions" }
+      ]
+    },
+    {
+      "hiragana": "き",
+      "romaji": "Ki",
+      "voiced": { "hiragana": "ぎ", "romaji": "Gi" },
+      "memoryAid": "Looks like a key 🗝️",
+      "exampleWords": [
+        { "word": "き", "romaji": "Ki", "meaning": "Tree 🌳" },
+        { "word": "ぎ", "romaji": "Gi", "meaning": "Used in ぎんこう (bank)" }
+      ]
+    },
+    {
+      "hiragana": "く",
+      "romaji": "Ku",
+      "voiced": { "hiragana": "ぐ", "romaji": "Gu" },
+      "memoryAid": "Think of a cuckoo bird 🐦 saying 'Ku-Ku!'",
+      "exampleWords": [
+        { "word": "く", "romaji": "Ku", "meaning": "To write ✍️" },
+        { "word": "ぐ", "romaji": "Gu", "meaning": "Used in ぐんたい (army)" }
+      ]
+    },
+    {
+      "hiragana": "け",
+      "romaji": "Ke",
+      "voiced": { "hiragana": "げ", "romaji": "Ge" },
+      "memoryAid": "Looks like a slice of cake 🍰",
+      "exampleWords": [
+        { "word": "け", "romaji": "Ke", "meaning": "Shadow" },
+        { "word": "げ", "romaji": "Ge", "meaning": "Used in げんき (healthy, energetic)" }
+      ]
+    },
+    {
+      "hiragana": "こ",
+      "romaji": "Ko",
+      "voiced": { "hiragana": "ご", "romaji": "Go" },
+      "memoryAid": "Two koi fish 🐟🐟 swimming around each other",
+      "exampleWords": [
+        { "word": "こ", "romaji": "Ko", "meaning": "To listen 🎧" },
+        { "word": "ご", "romaji": "Go", "meaning": "Used in ごはん (rice/meal) 🍚" }
+      ]
+    }
+  ]
+  
